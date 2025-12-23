@@ -15,5 +15,5 @@ This project focuses on analyzing 5G network performance metrics to optimize ban
 
 ---
 ### How to view:
-1. Download the fg.pbix file.
+1. Download the Network Performance & Optimization Analysis.pbix file.
 2. Open it using *Power BI Desktop*.
