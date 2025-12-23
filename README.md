@@ -1,6 +1,6 @@
 # 5G Network Performance & Optimization Analysis 📶
-##  
-overrview
+##overrview  
+
 This project focuses on analyzing 5G network performance metrics to optimize bandwidth allocation and reduce latency. Using data-driven insights, I visualized key performance indicators (KPIs) to help in strategic network decision-making.
 
 ## Key Insights & Achievements:
