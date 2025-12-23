@@ -1,5 +1,5 @@
 # 5G Network Performance & Optimization Analysis 📶
-## Project Ove<img width="602" height="332" alt="5G Dashboard" src="https://github.com/user-attachments/assets/870da03b-f8b5-4214-a498-cc73aff09c41"   
+##  
 rview
 This project focuses on analyzing 5G network performance metrics to optimize bandwidth allocation and reduce latency. Using data-driven insights, I visualized key performance indicators (KPIs) to help in strategic network decision-making.
 
