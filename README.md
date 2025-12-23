@@ -2,6 +2,7 @@
 
 
 <img width="602" height="332" alt="5G Dashboard" src="https://github.com/user-attachments/assets/be266dff-a09b-462d-9e81-7aae09f37cc6" />
+
 ## Project Overview 
 
 This project focuses on analyzing 5G network performance metrics to optimize bandwidth allocation and reduce latency. Using data-driven insights, I visualized key performance indicators (KPIs) to help in strategic network decision-making.
